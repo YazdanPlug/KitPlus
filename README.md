@@ -6,3 +6,7 @@ Kits:
  - Gold
  - Chain
  - Leather
+
+Commands: /kitplus
+
+Permission: kitplus.command
