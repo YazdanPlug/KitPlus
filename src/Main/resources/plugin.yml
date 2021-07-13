@@ -1,0 +1,16 @@
+name: KitPlus
+version: 1.0
+api: 1.0.0
+description: "KitPlus plugin in NukkitX"
+author: "YazdanKHos"
+website: https://github.com/YazdanPlug/KitPlus
+commands:
+  kitplus:
+    description: "KitPlus Command"
+    usage: "/kitplus"
+    permission: "kitplus.command"
+    permission-message: "You dont have permission for this command"
+permissions:
+  kitplus.command:
+    description: "Allows the user to run the example command"
+    default: true
